@@ -7,7 +7,7 @@
     @@  
     @
  * Date: 2016/10/17
- * Author: 103021009 周永振老師
+ * Author: 103021009 吳庭瑋
  */
 import java.util.*;
 
